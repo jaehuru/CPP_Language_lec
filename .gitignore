@@ -1,6 +1,5 @@
 # Executables
 *.exe
-*main.dSYM
 
 # Compile
 .vscode/
@@ -16,3 +15,4 @@
 
 
 .DS_Store
+.dSYM

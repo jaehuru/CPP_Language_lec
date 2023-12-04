@@ -1,7 +1,0 @@
-{
-    "files.exclude": {
-        "**/*.gitignore": true,
-        "**/*README.md": true
-    },
-    "explorer.excludeGitIgnore": false
-}

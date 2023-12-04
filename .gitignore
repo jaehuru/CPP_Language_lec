@@ -1,6 +1,15 @@
 # Executables
 *.exe
+*.dSYM
 
 # Compile
 .vscode/
 
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/

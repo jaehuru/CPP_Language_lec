@@ -54,6 +54,7 @@ int main()
 
     cout << (1 > 3) << endl;
     cout << (3 == 3) << endl;
+    cout << (i >= 3)
     cout << ('a' != 'c') << endl;
     cout << ('a' == 'c') << endl;
 

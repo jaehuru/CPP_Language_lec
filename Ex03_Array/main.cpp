@@ -15,31 +15,31 @@ int main()
     // 인덱싱 (zero-based)
     cout << my_array[0] << " "
          << my_array[1] << " "
-         << my_array[2] << endl; // 추측해보세요
+         << my_array[2] << endl; 
 
     // 인덱싱으로 하나 짜리 변수 처럼 사용 가능
     my_array[1] = 5;
 
     cout << my_array[0] << " "
          << my_array[1] << " "
-         << my_array[2] << endl; // 추측해보세요
+         << my_array[2] << endl;
 
     // cout << my_array[10000] << endl;
 
     // 문자열은 기본적으로 문자의 배열
     char name[] = "Hello, World!"; // 문자''와 문자열"" 구분
     // Null character '\0'
-    cout << name << " " << sizeof(name) << endl; // 추측해보세요
+    cout << name << " " << sizeof(name) << endl; 
 
     name[0] = 'A';
     name[1] = 'B';
     name[2] = 'C';
 
-    cout << name << endl; // 추측해보세요
+    cout << name << endl; 
 
-    name[2] = '\0'; // 추측해보세요
+    name[2] = '\0';
 
-    cout << name << endl; // 추측해보세요
+    cout << name << endl; 
 
     return 0;
 }

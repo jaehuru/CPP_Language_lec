@@ -1,1 +1,3 @@
-# CPP_Language_lec
+# CPP Language Lecture
+
+- IDE : ' Visual Studio 2022 '

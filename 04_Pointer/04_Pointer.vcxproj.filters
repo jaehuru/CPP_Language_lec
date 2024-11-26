@@ -26,5 +26,17 @@
     <ClCompile Include="005_Array.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="006_Pointer_VS_Array.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="007_Double_Pointer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="008_Multi_Dimensional_Array.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="009_Finish_Pointer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

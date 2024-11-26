@@ -11,13 +11,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="001_integer.cpp">
+    <ClCompile Include="001_Conditional_Branching.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="002_Boolean_And_Float.cpp">
+    <ClCompile Include="002_Loop_Statement.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="003_Character_And_String.cpp">
+    <ClCompile Include="003_Enum.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

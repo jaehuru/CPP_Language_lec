@@ -44,6 +44,7 @@ wchar_t wch = L'¾È'; //0xc548
 
 char str[] = { 'h', 'e', 'l', 'l', 'o', '\0' };
 char str2[] = "Hello World";
+wchar_t str3[] = L"Hello World";
 
 int main()
 {

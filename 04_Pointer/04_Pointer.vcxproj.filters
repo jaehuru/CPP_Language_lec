@@ -11,13 +11,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="001_Basic_Pointer.cpp">
+    <ClCompile Include="001_Pointer.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="002_Pointer_Operator.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="003_Basic_Reference.cpp">
+    <ClCompile Include="003_Reference.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="004_Pointer_VS_Reference.cpp">

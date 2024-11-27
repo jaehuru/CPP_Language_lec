@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_Object_Oriented_Programm
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06_Dynamic_Memory_Allocation", "06_Dynamic_Memory_Allocation\06_Dynamic_Memory_Allocation.vcxproj", "{9B043595-2B9A-457A-B170-13E9C9B352BF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07_Callback_Function", "07_Callback_Function\07_Callback_Function.vcxproj", "{792D861E-097D-45B9-AD54-1EF19318DA51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{9B043595-2B9A-457A-B170-13E9C9B352BF}.Release|x64.Build.0 = Release|x64
 		{9B043595-2B9A-457A-B170-13E9C9B352BF}.Release|x86.ActiveCfg = Release|Win32
 		{9B043595-2B9A-457A-B170-13E9C9B352BF}.Release|x86.Build.0 = Release|Win32
+		{792D861E-097D-45B9-AD54-1EF19318DA51}.Debug|x64.ActiveCfg = Debug|x64
+		{792D861E-097D-45B9-AD54-1EF19318DA51}.Debug|x64.Build.0 = Debug|x64
+		{792D861E-097D-45B9-AD54-1EF19318DA51}.Debug|x86.ActiveCfg = Debug|Win32
+		{792D861E-097D-45B9-AD54-1EF19318DA51}.Debug|x86.Build.0 = Debug|Win32
+		{792D861E-097D-45B9-AD54-1EF19318DA51}.Release|x64.ActiveCfg = Release|x64
+		{792D861E-097D-45B9-AD54-1EF19318DA51}.Release|x64.Build.0 = Release|x64
+		{792D861E-097D-45B9-AD54-1EF19318DA51}.Release|x86.ActiveCfg = Release|Win32
+		{792D861E-097D-45B9-AD54-1EF19318DA51}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

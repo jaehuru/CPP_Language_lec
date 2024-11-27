@@ -11,16 +11,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="001_Function.cpp">
+    <ClCompile Include="001_Function_Fointer.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="002_LocalVariable_CallByValue.cpp">
+    <ClCompile Include="002_Function_Fointer.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="003_Call_Stack.cpp">
+    <ClCompile Include="003_Functor.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="004_Finish_Function.cpp">
+    <ClCompile Include="004_Template.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="005_Template.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="006_Callback.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
